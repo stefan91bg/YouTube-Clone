@@ -1,0 +1,11 @@
+.search-bar{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100px;
+    background-color: antiquewhite;
+}
+.slika{
+    height: 50px;
+}
